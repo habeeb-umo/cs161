@@ -1,0 +1,5 @@
+Name: Newman, Sandra	Score: 3	Grad? true
+Name: Hunt, Tony	Score: 9	Grad? true
+Name: May, Manny	Score: 49	Grad? true
+Name: Harrison, Janie	Score: 55	Grad? true
+Name: Garcia, Sarah	Score: 62	Grad? true
